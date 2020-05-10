@@ -13,6 +13,14 @@ a:sfx_scronched/shock.mp3:792:application/unknown
 a:sfx_scronched/cannon.mp3:4241:application/unknown
 a:sfx_scronched/bang.mp3:6696:application/unknown
 a:sfx_scronched/pick.mp3:7488:application/unknown
+d:sfx_scronched/pinkynotes:0:application/unknown
+a:sfx_scronched/pinkynotes/D.mp3:32402:application/unknown
+a:sfx_scronched/pinkynotes/A.mp3:29685:application/unknown
+a:sfx_scronched/pinkynotes/E.mp3:34960:application/unknown
+a:sfx_scronched/pinkynotes/C.mp3:31933:application/unknown
+a:sfx_scronched/pinkynotes/F.mp3:33292:application/unknown
+a:sfx_scronched/pinkynotes/G.mp3:28481:application/unknown
+a:sfx_scronched/pinkynotes/B.mp3:30706:application/unknown
 a:sfx_scronched/hurt.wav:10188:audio/x-wav
 a:sfx_scronched/laser.wav:24254:audio/x-wav
 a:sfx_scronched/gunshot.mp3:6984:application/unknown
@@ -25,6 +33,7 @@ i:textures/eigenarrow.png:191:image/png
 i:textures/dot.png:102:image/png
 i:textures/axes.png:1695:image/png
 i:textures/arrow_iota_green.png:112:image/png
+i:textures/cts.png:4206:image/png
 d:textures/boxes:0:application/unknown
 i:textures/boxes/X_box.png:194:image/png
 i:textures/boxes/Yellow_box.png:147:image/png
@@ -38,8 +47,6 @@ i:textures/healthBar.png:170:image/png
 i:textures/fine_grid.png:2057:image/png
 i:textures/eigenaxes.png:1698:image/png
 d:music:0:application/unknown
-a:music/Song2.ogg:10504835:application/unknown
-i:badlogic.jpg:68465:image/jpeg
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:6084:application/unknown
