@@ -17266,7 +17266,7 @@ n,com.matrix.game.screens.GameScreen::phase,com.matrix.game.screens.GameScreen,p
 o,com.matrix.game.screens.GameScreen::phaseStartTime,com.matrix.game.screens.GameScreen,phaseStartTime,com/matrix/game/screens/GameScreen.java,20,-1
 p,com.matrix.game.screens.GameScreen::screenProper,com.matrix.game.screens.GameScreen,screenProper,com/matrix/game/screens/GameScreen.java,36,-1
 L2,,com.matrix.game.screens.L2,,com/matrix/game/screens/L2.java,9,-1
-Kle,com.matrix.game.screens.L2::$draw_info(Lcom/matrix/game/screens/L2;)V,com.matrix.game.screens.L2,$draw_info,com/matrix/game/screens/L2.java,236,0
+Kle,com.matrix.game.screens.L2::$draw_info(Lcom/matrix/game/screens/L2;)V,com.matrix.game.screens.L2,$draw_info,com/matrix/game/screens/L2.java,338,0
 Lle,com.matrix.game.screens.L2::$eventuate_events(Lcom/matrix/game/screens/L2;F)V,com.matrix.game.screens.L2,$eventuate_events,com/matrix/game/screens/L2.java,21,0
 Mle,com.matrix.game.screens.L2::L2(Lcom/matrix/game/MatrixGame;) <init>,com.matrix.game.screens.L2,L2,com/matrix/game/screens/L2.java,14,0
 a,com.matrix.game.screens.L2::theta,com.matrix.game.screens.L2,theta,com/matrix/game/screens/L2.java,12,-1
