@@ -56,6 +56,7 @@ i:textures/voidbox.png:463:image/png
 i:textures/prettyBG.png:88401:image/png
 i:textures/eigenarrow.png:191:image/png
 i:textures/dot.png:127:image/png
+i:textures/sparkle_white.png:99:image/png
 i:textures/axes.png:1695:image/png
 i:textures/eigenarrow_up.png:177:image/png
 i:textures/empty_octagon_II.png:171:image/png
@@ -86,6 +87,7 @@ i:textures/315_eigenarrow.png:179:image/png
 i:textures/healthBar.png:170:image/png
 i:textures/little_voidbox.png:355:image/png
 i:textures/motion.png:126:image/png
+i:textures/sparkle_blue.png:113:image/png
 i:textures/fine_grid.png:2057:image/png
 i:textures/voidbox_output_vector.png:206:image/png
 i:textures/voidbox_matrix.png:255:image/png
