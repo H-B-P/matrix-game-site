@@ -17352,7 +17352,7 @@ Gme,com.matrix.game.screens.LoadingScreen::lb_4,com.matrix.game.screens.LoadingS
 Hme,com.matrix.game.screens.LoadingScreen::lb_5,com.matrix.game.screens.LoadingScreen,lb_5,com/matrix/game/screens/LoadingScreen.java,19,-1
 Ime,com.matrix.game.screens.LoadingScreen::loaderfont,com.matrix.game.screens.LoadingScreen,loaderfont,com/matrix/game/screens/LoadingScreen.java,21,-1
 a,com.matrix.game.screens.LoadingScreen::loadprogress,com.matrix.game.screens.LoadingScreen,loadprogress,com/matrix/game/screens/LoadingScreen.java,12,-1
-Kme,com.matrix.game.screens.LoadingScreen::render(F)V,com.matrix.game.screens.LoadingScreen,render,com/matrix/game/screens/LoadingScreen.java,40,0
+Kme,com.matrix.game.screens.LoadingScreen::render(F)V,com.matrix.game.screens.LoadingScreen,render,com/matrix/game/screens/LoadingScreen.java,38,0
 MetaScreen,,com.matrix.game.screens.MetaScreen,,com/matrix/game/screens/MetaScreen.java,18,-1
 Ble,com.matrix.game.screens.MetaScreen::$meta_render(Lcom/matrix/game/screens/MetaScreen;F)V,com.matrix.game.screens.MetaScreen,$meta_render,com/matrix/game/screens/MetaScreen.java,60,0
 Cle,com.matrix.game.screens.MetaScreen::$resize(Lcom/matrix/game/screens/MetaScreen;II)V,com.matrix.game.screens.MetaScreen,$resize,com/matrix/game/screens/MetaScreen.java,85,0
