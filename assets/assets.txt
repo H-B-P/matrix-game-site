@@ -24,6 +24,7 @@ t:fonts/acalc_font/README.txt:314:text/plain
 i:fonts/acalc_font/gf.png:6932:image/png
 b:fonts/acalc_font/GreenFlame.ttf:10068:application/unknown
 t:fonts/acalc_font/greenflame.fnt:8804:application/unknown
+i:loadbox_2.png:228:image/png
 d:sfx_scronched:0:application/unknown
 a:sfx_scronched/wrong.wav:23254:audio/x-wav
 a:sfx_scronched/gunshot_failed.mp3:6696:application/unknown
@@ -48,6 +49,10 @@ a:sfx_scronched/pinkynotes/B.mp3:30706:application/unknown
 a:sfx_scronched/hurt.wav:10188:audio/x-wav
 a:sfx_scronched/laser.wav:24254:audio/x-wav
 a:sfx_scronched/gunshot.mp3:6984:application/unknown
+i:loadbox_3.png:229:image/png
+i:loadbox_0.png:224:image/png
+i:loadbox_1.png:227:image/png
+i:loadbox_5.png:225:image/png
 d:textures:0:application/unknown
 d:textures/buttons:0:application/unknown
 i:textures/buttons/ingame_button_fire.png:1048:image/png
@@ -67,6 +72,7 @@ i:textures/full_octagon_II.png:178:image/png
 i:textures/45_eigenarrow.png:182:image/png
 i:textures/cts.png:5745:image/png
 i:textures/full_octagon.png:215:image/png
+i:textures/victorybox.png:278:image/png
 d:textures/boxes:0:application/unknown
 i:textures/boxes/Empty_box_big.png:261:image/png
 i:textures/boxes/Tick_box_ori.png:192:image/png
@@ -95,6 +101,7 @@ i:textures/135_eigenarrow.png:183:image/png
 i:textures/grid_2.png:2272:image/png
 i:textures/eigenaxes.png:1698:image/png
 d:music:0:application/unknown
+i:loadbox_4.png:228:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:6084:application/unknown
