@@ -87,13 +87,17 @@ i:textures/full_octagon.png:215:image/png
 i:textures/title_small.png:200:image/png
 i:textures/victorybox.png:278:image/png
 d:textures/boxes:0:application/unknown
+i:textures/boxes/X_box_medium.png:295:image/png
+i:textures/boxes/Empty_box_medium.png:188:image/png
 i:textures/boxes/Empty_box_big.png:261:image/png
 i:textures/boxes/Tick_box_ori.png:192:image/png
 i:textures/boxes/X_box_big.png:370:image/png
 i:textures/boxes/X_box.png:236:image/png
 i:textures/boxes/Yellow_box.png:166:image/png
+i:textures/boxes/Yellow_box_medium.png:209:image/png
 i:textures/boxes/Tick_box_big.png:353:image/png
 i:textures/boxes/Tick_box.png:218:image/png
+i:textures/boxes/Tick_box_medium.png:285:image/png
 i:textures/boxes/Yellow_box_big.png:285:image/png
 i:textures/boxes/Empty_box.png:144:image/png
 i:textures/arrow_iota_orange.png:113:image/png
