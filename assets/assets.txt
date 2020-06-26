@@ -85,7 +85,7 @@ i:textures/title_medium.png:232:image/png
 i:textures/cts.png:5745:image/png
 i:textures/full_octagon.png:215:image/png
 i:textures/title_small.png:200:image/png
-i:textures/victorybox.png:278:image/png
+i:textures/victorybox.png:277:image/png
 d:textures/boxes:0:application/unknown
 i:textures/boxes/X_box_medium.png:295:image/png
 i:textures/boxes/Empty_box_medium.png:188:image/png
