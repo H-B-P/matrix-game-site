@@ -69,6 +69,7 @@ i:textures/buttons/ingame_button_fire.png:1048:image/png
 i:textures/buttons/ingame_button_exit.png:811:image/png
 i:textures/voidbox.png:463:image/png
 i:textures/prettyBG.png:88401:image/png
+i:textures/title_trisize.png:242:image/png
 i:textures/transition_3.png:159:image/png
 i:textures/eigenarrow.png:191:image/png
 i:textures/dot.png:127:image/png
