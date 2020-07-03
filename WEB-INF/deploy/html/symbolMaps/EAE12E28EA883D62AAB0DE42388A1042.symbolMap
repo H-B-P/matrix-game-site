@@ -17072,10 +17072,10 @@ mje,com.matrix.game.screens.L5::moveon()V,com.matrix.game.screens.L5,moveon,com/
 nje,com.matrix.game.screens.L5::show_level_title()V,com.matrix.game.screens.L5,show_level_title,com/matrix/game/screens/L5.java,343,0
 L6,,com.matrix.game.screens.L6,,com/matrix/game/screens/L6.java,8,-1
 oje,com.matrix.game.screens.L6::L6(Lcom/matrix/game/MatrixGame;) <init>,com.matrix.game.screens.L6,L6,com/matrix/game/screens/L6.java,11,0
-pje,com.matrix.game.screens.L6::draw_eigens()V,com.matrix.game.screens.L6,draw_eigens,com/matrix/game/screens/L6.java,426,0
-qje,com.matrix.game.screens.L6::eventuate_events(F)V,com.matrix.game.screens.L6,eventuate_events,com/matrix/game/screens/L6.java,27,0
-rje,com.matrix.game.screens.L6::moveon()V,com.matrix.game.screens.L6,moveon,com/matrix/game/screens/L6.java,469,0
-sje,com.matrix.game.screens.L6::show_level_title()V,com.matrix.game.screens.L6,show_level_title,com/matrix/game/screens/L6.java,463,0
+pje,com.matrix.game.screens.L6::draw_eigens()V,com.matrix.game.screens.L6,draw_eigens,com/matrix/game/screens/L6.java,430,0
+qje,com.matrix.game.screens.L6::eventuate_events(F)V,com.matrix.game.screens.L6,eventuate_events,com/matrix/game/screens/L6.java,31,0
+rje,com.matrix.game.screens.L6::moveon()V,com.matrix.game.screens.L6,moveon,com/matrix/game/screens/L6.java,473,0
+sje,com.matrix.game.screens.L6::show_level_title()V,com.matrix.game.screens.L6,show_level_title,com/matrix/game/screens/L6.java,467,0
 LoadingScreen,,com.matrix.game.screens.LoadingScreen,,com/matrix/game/screens/LoadingScreen.java,10,-1
 Aje,com.matrix.game.screens.LoadingScreen::LoadingScreen(Lcom/matrix/game/MatrixGame;) <init>,com.matrix.game.screens.LoadingScreen,LoadingScreen,com/matrix/game/screens/LoadingScreen.java,25,0
 tje,com.matrix.game.screens.LoadingScreen::lb_0,com.matrix.game.screens.LoadingScreen,lb_0,com/matrix/game/screens/LoadingScreen.java,14,-1
