@@ -75,6 +75,7 @@ i:textures/eigenarrow.png:191:image/png
 i:textures/dot.png:127:image/png
 i:textures/sparkle_white.png:99:image/png
 i:textures/axes.png:1695:image/png
+i:textures/title_large.png:236:image/png
 i:textures/eigenarrow_up.png:177:image/png
 i:textures/empty_octagon_II.png:171:image/png
 i:textures/voidbox_crude.png:444:image/png
