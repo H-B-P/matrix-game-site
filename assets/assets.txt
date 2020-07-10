@@ -71,6 +71,7 @@ i:textures/prettyBG.png:88401:image/png
 i:textures/title_trisize.png:242:image/png
 i:textures/eigenarrow.png:191:image/png
 i:textures/dot.png:127:image/png
+i:textures/title_fin.png:223:image/png
 i:textures/sparkle_white.png:99:image/png
 i:textures/axes.png:1695:image/png
 i:textures/title_large.png:236:image/png
