@@ -85,6 +85,7 @@ i:textures/progress/progress_bar_iota.png:139:image/png
 i:textures/progress/progress_bar_16.png:263:image/png
 i:textures/progress/progress_bar_0.png:260:image/png
 i:textures/progress/progress_bar_n_0.png:250:image/png
+i:textures/progress/progress_bar_f_0.png:236:image/png
 i:textures/progress/progress_bar_6.png:293:image/png
 i:textures/progress/progress_bar_10.png:292:image/png
 i:textures/progress/progress_bar_1.png:281:image/png
@@ -99,6 +100,7 @@ i:textures/progress/progress_bar_7.png:299:image/png
 i:textures/progress/progress_bar_11.png:296:image/png
 i:textures/progress/progress_bar_15.png:280:image/png
 i:textures/progress/progress_bar_5.png:299:image/png
+i:textures/progress/progress_bar_f_16.png:266:image/png
 i:textures/progress/progress_bar_n_16.png:277:image/png
 i:textures/progress/progress_bar_12.png:283:image/png
 i:textures/45_eigenarrow.png:182:image/png
@@ -106,6 +108,7 @@ i:textures/title_medium.png:232:image/png
 i:textures/cts.png:5745:image/png
 i:textures/full_octagon.png:215:image/png
 i:textures/title_small.png:200:image/png
+i:textures/victorybox_slightly_wider.png:277:image/png
 i:textures/victorybox.png:277:image/png
 d:textures/boxes:0:application/unknown
 i:textures/boxes/X_box_medium.png:295:image/png
