@@ -68,7 +68,7 @@ i:textures/buttons/ingame_button_fire.png:1048:image/png
 i:textures/buttons/ingame_button_exit.png:811:image/png
 i:textures/voidbox.png:463:image/png
 i:textures/prettyBG.png:88401:image/png
-i:textures/title_trisize.png:242:image/png
+i:textures/title_trisize.png:247:image/png
 i:textures/eigenarrow.png:191:image/png
 i:textures/dot.png:127:image/png
 i:textures/title_fin.png:223:image/png
@@ -95,6 +95,7 @@ i:textures/progress/progress_bar_9.png:294:image/png
 i:textures/progress/progress_bar_8.png:291:image/png
 i:textures/progress/progress_bar_14.png:279:image/png
 i:textures/progress/progress_bar_3.png:283:image/png
+i:textures/progress/progress_bar_iota_ori.png:139:image/png
 i:textures/progress/progress_bar_2.png:279:image/png
 i:textures/progress/progress_bar_4.png:288:image/png
 i:textures/progress/progress_bar_7.png:299:image/png
@@ -132,6 +133,7 @@ i:textures/grid.png:1840:image/png
 i:textures/letterboxPoncho.png:28105:image/png
 i:textures/healthSliver.png:98:image/png
 i:textures/315_eigenarrow.png:179:image/png
+i:textures/title_sym.png:235:image/png
 i:textures/healthBar.png:170:image/png
 i:textures/little_voidbox.png:355:image/png
 i:textures/motion.png:126:image/png
